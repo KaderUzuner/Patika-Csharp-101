@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method.RecursiveExtensionMe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoritmaOdev1", "AlgoritmaOdev1\AlgoritmaOdev1.csproj", "{AE9FF995-88A5-4181-881F-72FB274419CD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumu", "TipDönüsümü\TipDonusumu.csproj", "{42744F47-F010-4D85-9F1B-18A43BEC265A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimiİzleme", "HataYonetimiİzleme\HataYonetimiİzleme.csproj", "{505003F0-F933-48DA-A22C-3570112B6649}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If_Else_If", "If_Else\If_Else_If.csproj", "{ED83B913-E1A5-468F-8457-7FCF9F3D4C17}"
@@ -28,6 +26,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler1", "Donguler1\Donguler1.csproj", "{1759EE6E-21A7-43DF-8DFD-EDDB0146F1D9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler2", "Donguler2\Donguler2.csproj", "{1D55C152-9792-4E37-9D96-C8856DAD3F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumu", "TipDonusumu\TipDonusumu.csproj", "{214A11B5-00BD-4110-8544-56B78A37CB2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,10 +63,6 @@ Global
 		{AE9FF995-88A5-4181-881F-72FB274419CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE9FF995-88A5-4181-881F-72FB274419CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE9FF995-88A5-4181-881F-72FB274419CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{42744F47-F010-4D85-9F1B-18A43BEC265A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42744F47-F010-4D85-9F1B-18A43BEC265A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42744F47-F010-4D85-9F1B-18A43BEC265A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42744F47-F010-4D85-9F1B-18A43BEC265A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{505003F0-F933-48DA-A22C-3570112B6649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{505003F0-F933-48DA-A22C-3570112B6649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{505003F0-F933-48DA-A22C-3570112B6649}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +83,10 @@ Global
 		{1D55C152-9792-4E37-9D96-C8856DAD3F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D55C152-9792-4E37-9D96-C8856DAD3F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D55C152-9792-4E37-9D96-C8856DAD3F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214A11B5-00BD-4110-8544-56B78A37CB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214A11B5-00BD-4110-8544-56B78A37CB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214A11B5-00BD-4110-8544-56B78A37CB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214A11B5-00BD-4110-8544-56B78A37CB2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

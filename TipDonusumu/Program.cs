@@ -2,7 +2,6 @@
 
 namespace TipDonusumu
 {
-
     class Program
     {
         static void Main(string[] args)
@@ -88,5 +87,4 @@ namespace TipDonusumu
         }
     }
 }
-
 
