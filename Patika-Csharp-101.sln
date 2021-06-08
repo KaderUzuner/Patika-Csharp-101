@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical", "Practical\Practical.csproj", "{6A51EA70-D393-4AD6-A07F-40CA837C1C6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical", "Practical\Practical.csproj", "{6A51EA70-D393-4AD6-A07F-40CA837C1C6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{EB4D6A5F-B482-47E7-BBD3-D2E0F925A675}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{3C73887E-332D-4C29-8488-B305D218B032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{51EA5E2D-E8E9-4CDC-9DAE-FBDFBCCC5728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOver\MethodOverloading.csproj", "{DBCABEB5-2C14-46E5-937B-BC340445B2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method.RecursiveExtensionMethod", "MethodExtensions\Method.RecursiveExtensionMethod.csproj", "{E6484682-0E8D-4A1B-A9FC-837A104A3C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaOdev1", "AlgoritmaOdev1\AlgoritmaOdev1.csproj", "{AE9FF995-88A5-4181-881F-72FB274419CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{6A51EA70-D393-4AD6-A07F-40CA837C1C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A51EA70-D393-4AD6-A07F-40CA837C1C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A51EA70-D393-4AD6-A07F-40CA837C1C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4D6A5F-B482-47E7-BBD3-D2E0F925A675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4D6A5F-B482-47E7-BBD3-D2E0F925A675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4D6A5F-B482-47E7-BBD3-D2E0F925A675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4D6A5F-B482-47E7-BBD3-D2E0F925A675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C73887E-332D-4C29-8488-B305D218B032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C73887E-332D-4C29-8488-B305D218B032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C73887E-332D-4C29-8488-B305D218B032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C73887E-332D-4C29-8488-B305D218B032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EA5E2D-E8E9-4CDC-9DAE-FBDFBCCC5728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EA5E2D-E8E9-4CDC-9DAE-FBDFBCCC5728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EA5E2D-E8E9-4CDC-9DAE-FBDFBCCC5728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EA5E2D-E8E9-4CDC-9DAE-FBDFBCCC5728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCABEB5-2C14-46E5-937B-BC340445B2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCABEB5-2C14-46E5-937B-BC340445B2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCABEB5-2C14-46E5-937B-BC340445B2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCABEB5-2C14-46E5-937B-BC340445B2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6484682-0E8D-4A1B-A9FC-837A104A3C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6484682-0E8D-4A1B-A9FC-837A104A3C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6484682-0E8D-4A1B-A9FC-837A104A3C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6484682-0E8D-4A1B-A9FC-837A104A3C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9FF995-88A5-4181-881F-72FB274419CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9FF995-88A5-4181-881F-72FB274419CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9FF995-88A5-4181-881F-72FB274419CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9FF995-88A5-4181-881F-72FB274419CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
