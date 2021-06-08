@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TipDönüsümü
+namespace TipDonusumu
 {
 
     class Program
@@ -89,4 +89,4 @@ namespace TipDönüsümü
     }
 }
 
-}
+
